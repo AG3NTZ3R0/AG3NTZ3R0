@@ -1,4 +1,4 @@
-### Oh hi, didn't see you there!
+### Brandon J. Lacy
 
 - 📚 I’m currently a Junior studying at Sacred Heart University (Class of 2022)
 - 💻 I’m double majoring in Computer Science and Cybersecurity

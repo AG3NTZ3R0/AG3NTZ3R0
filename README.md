@@ -1,9 +1,9 @@
 ### Brandon J. Lacy
 
-- 📝 I’m currently a Junior studying at Sacred Heart University (Class of 2022)
-- 💻 I’m double majoring in Computer Science and Cybersecurity
-- 🐍 I’m currently learning Python and the Django Web Framework
-- 💬 Ask me about the books I have read and if I recommend them
+- 📝 I’m a senior studying at Sacred Heart University (Class of 2022)
+- 💻 I’m studying computer science and cybersecurity
+- 🐍 I’m expanding my horizons within Python
+- 💬 Ask me about the books I have read and if I recommend them!
 - 📫 How to reach me: Lacy.Brandon.J@gmail.com
 
 ### Why GitHub?
@@ -13,8 +13,17 @@ There are two main reasons for why I utilize GitHub; one being the fact that I w
 ### Personal Book Collection:
 
 - Automate the Boring Stuff with Python - Al Sweigart (Queued)
+- Beyond the Basic Stuff with Python - Al Sweigart
+- Cracking Codes with Python - Al Sweigart (Queued)
 - Django for Beginners - William Vincent (Complete)
 - Django for Professionals - William Vincent (Complete)
-- Practical SQL - Anthony DeBarros (Queued)
+- Doing Math with Python - Amit Saha
+- Invent Your Own Computer Games with Python - Al Sweigart
+- Math Adventures with Python - Peter Farrell
+- Natural Language Processing with Python and Spacy - Yuli Vasiliev
+- Practical SQL - Anthony DeBarros
 - Python Crash Course - Eric Matthes (In Progress)
+- Python One-Liners - Christian Mayer (Queued)
+- Real World Python - Lee Vaughan
+- Serious Python - Julien Danjou
 - Web Security for Developers - Malcolm McDonald (Complete)

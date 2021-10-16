@@ -1,6 +1,4 @@
 # Brandon J. Lacy (AG3NTZ3R0)
-![](https://img.shields.io/badge/Status-Knowledge%20Hunting-blue)
-<br>
 ![](https://img.shields.io/badge/Language-Python-brightgreen)
 ![](https://img.shields.io/badge/Web%20Framework-Django-brightgreen)
 <br>
@@ -10,6 +8,7 @@
 <br>
 ![](https://img.shields.io/badge/Organization-Hubbell%20Inc.-yellow)
 ![](https://img.shields.io/badge/Role-Data%20Analytics%20%26%20Operations%20Analyst-yellow)
+
 
 ### Currently Reading
 

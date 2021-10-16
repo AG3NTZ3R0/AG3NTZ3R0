@@ -12,7 +12,7 @@
 
 ### Currently Reading
 
-Python Crash Course - Eric Matthes
+<i>Currently evaluating my next read.</i>
 
 ### Prospective Projects
 

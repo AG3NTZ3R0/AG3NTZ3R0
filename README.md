@@ -9,6 +9,13 @@
 ![](https://img.shields.io/badge/Organization-Hubbell%20Inc.-yellow)
 ![](https://img.shields.io/badge/Role-Data%20Analytics%20%26%20Operations%20Analyst-yellow)
 
+### Currently Reading
+
+Python Crash Course - Eric Matthes
+
+### Prospective Projects
+
+<i>Currently under construction. Try again later.</i>
 
 ### Why GitHub?
 

@@ -2,6 +2,7 @@
 ![](https://img.shields.io/badge/Language-Python-brightgreen)
 ![](https://img.shields.io/badge/Web%20Framework-Django-brightgreen)
 ![](https://img.shields.io/badge/Certification-PCEP-brightgreen)
+![](https://img.shields.io/badge/Certification-Scientific%20Computing%20with%20Python-brightgreen)
 <br>
 ![](https://img.shields.io/badge/University-Sacred%20Heart%20University-red)
 ![](https://img.shields.io/badge/Degree-BS%20Computer%20Science-red)
@@ -12,10 +13,9 @@
 
 ### Certification Pursuit
 
-1. Scientific Computing with Python - freeCodeCamp()
-2. Data Analysis with Python - freeCodeCamp()
-3. Machine Learning with Python - freeCodeCamp()
-4. Python Certified Associate Programmer - Python Institute
+1. Data Analysis with Python - freeCodeCamp()
+2. Machine Learning with Python - freeCodeCamp()
+3. Python Certified Associate Programmer - Python Institute
 
 ### Currently Reading
 

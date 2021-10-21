@@ -10,6 +10,12 @@
 ![](https://img.shields.io/badge/Organization-Hubbell%20Inc.-yellow)
 ![](https://img.shields.io/badge/Role-Data%20Analytics%20%26%20Operations%20Analyst-yellow)
 
+### Certification Pursuit
+
+1. Scientific Computing with Python - freeCodeCamp()
+2. Data Analysis with Python - freeCodeCamp()
+3. Machine Learning with Python - freeCodeCamp()
+4. Python Certified Associate Programmer - Python Institute
 
 ### Currently Reading
 

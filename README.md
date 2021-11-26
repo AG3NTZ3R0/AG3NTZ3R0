@@ -18,14 +18,31 @@
 2. Machine Learning with Python - freeCodeCamp()
 3. Python Certified Associate Programmer - Python Institute
 
-### Currently Reading
+### Literature Track
 
-<i>Currently evaluating my next read.</i>
+#### Entry-Level
+- Python Crash Course - No Starch Press (In Progress)
+- Think Python - O’Reilly
+- Introducing Python - O’Reilly
+- Beyond the Basic Stuff with Python - No Starch Press
+- Automate the Boring Stuff with Python - No Starch Press
+
+#### Associate
+- The Hitchhiker’s Guide to Python - O’Reilly
+- Python One-Liners - No Starch Press
+- High Performance Python - O’Reilly
+- Serious Python - No Starch Press
+- Test-Driven Development with Python - O’Reilly
+- Using Asyncio in Python - O’Reilly
+- Real World Python - No Starch Press
+
+#### Expert
+- Python Data Science Handbook - O’Reilly
+- Machine Learning Pocket Reference - O’Reilly
+- Thoughtful Machine Learning with Python - O’Reilly
+- Hands-on Unsupervised Learning Using Python - O’Reilly
+- Elegant SciPy - O’Reilly
 
 ### Prospective Projects
 
 <i>Currently under construction. Try again later.</i>
-
-### Why GitHub?
-
-There are two main reasons for why I utilize GitHub; one being the fact that I want to prove the amount of work that I put in outside the classroom, and two being that I want to help others make the right decisions as they get started with their programming career. Anyone can say that they know a programming language or that they have read a book, but you have to PROVE that you have learned that language or read that book when crunch time rolls around. Yes, industry regulated certifications are one of the most popular ways to prove your skill, but what about proving that you are working towards that goal? I believe that is where GitHub assists the aspiring programmer. Are you working through Eric Matthes' Python Crash Course? PROVE IT by creating a repository for the practice problems found throughout the chapters. How about Django for Beginners by William Vincent? PROVE IT by creating a repository for the newspaper app which is the capstone of the literature. My goal is to assist those starting down the path to a programming career by shining a light on the steps that will lead them in the right direction while simultaneously showing employers what I have accomplished.

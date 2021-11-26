@@ -1,6 +1,7 @@
 # Brandon J. Lacy (AG3NTZ3R0)
 ![](https://img.shields.io/badge/Language-Python-brightgreen)
 ![](https://img.shields.io/badge/Web%20Framework-Django-brightgreen)
+<br>
 ![](https://img.shields.io/badge/Certification-PCEP-brightgreen)
 ![](https://img.shields.io/badge/Certification-Scientific%20Computing%20with%20Python-brightgreen)
 <br>

@@ -20,14 +20,14 @@
 
 ### Literature Track
 
-#### Entry-Level
+#### Tier I
 - Python Crash Course - No Starch Press (In Progress)
 - Think Python - O’Reilly
 - Introducing Python - O’Reilly
 - Beyond the Basic Stuff with Python - No Starch Press
 - Automate the Boring Stuff with Python - No Starch Press
 
-#### Associate
+#### Tier II
 - The Hitchhiker’s Guide to Python - O’Reilly
 - Python One-Liners - No Starch Press
 - High Performance Python - O’Reilly
@@ -36,7 +36,7 @@
 - Using Asyncio in Python - O’Reilly
 - Real World Python - No Starch Press
 
-#### Expert
+#### Tier III
 - Python Data Science Handbook - O’Reilly
 - Machine Learning Pocket Reference - O’Reilly
 - Thoughtful Machine Learning with Python - O’Reilly

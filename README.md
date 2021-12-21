@@ -21,8 +21,8 @@
 ### Literature Track
 
 #### Tier I
-- Python Crash Course - No Starch Press (In Progress)
-- Think Python - O’Reilly
+- Python Crash Course - No Starch Press (Completed)
+- Think Python - O’Reilly (In Progress)
 - Introducing Python - O’Reilly
 - Beyond the Basic Stuff with Python - No Starch Press
 - Automate the Boring Stuff with Python - No Starch Press

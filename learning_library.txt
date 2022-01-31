@@ -1,17 +1,49 @@
 Learning Library Book Collection
 
-- Automate the Boring Stuff with Python - Al Sweigart (Queued)
-- Beyond the Basic Stuff with Python - Al Sweigart
-- Cracking Codes with Python - Al Sweigart (Queued)
-- Django for Beginners - William Vincent (Complete)
-- Django for Professionals - William Vincent (Complete)
-- Doing Math with Python - Amit Saha
-- Invent Your Own Computer Games with Python - Al Sweigart
-- Math Adventures with Python - Peter Farrell
-- Natural Language Processing with Python and Spacy - Yuli Vasiliev
-- Practical SQL - Anthony DeBarros
-- Python Crash Course - Eric Matthes (In Progress)
-- Python One-Liners - Christian Mayer (Queued)
-- Real World Python - Lee Vaughan
+- Foundations of Information Security - Jason Andress
+- Crypto Dictionary - Jean-Philippe Aumasson
+- Serious Cryptography - Jean-Philippe Aumasson
+- Natural Language Processing with Python - Steven Bird, Ewan Klein & Edward Loper
+- Pentesting Azure Applications - Matt Burrough
 - Serious Python - Julien Danjou
-- Web Security for Developers - Malcolm McDonald (Complete)
+- Practical SQL - Anthony DeBarros
+- Think Python - Allen B. Downey
+- The Ghidra Book - Chris Eagle and Kara Nance
+- Math Adventures with Python - Peter Farrell
+- How to Hack like a Ghost - Sparc Flow
+- Attacking Network Protocols - James Forshaw
+- High Performance Python - Micha Gorelick & Ian Ozsvald
+- Ethical Hacking - Daniel G. Graham
+- Flask Web Development - Miguel Grinberg
+- Machine Learning Pocket Reference - Matt Harrison
+- Using Asyncio in Python - Caleb Hattingh
+- Python for Finance - Yves Hilpisch
+- Thoughtful Machine Learning with Python - Matthew Kirk
+- Introducing Python - Bill Lubanovic
+- Rootkits and Bootkits - Alex Matrosov, Eugene Rodionov, and Sergey Bratus 
+- Python Crash Course - Eric Matthes
+- Python One-Liners - Christian Mayer
+- Cyberjutsu - Ben McCarty
+- Web Security for Developers - Malcolm McDonald
+- Web Scraping with Python - Ryan Mitchell
+- Practical Forensic Imaging - Bruce Nikkel
+- Elegant SciPy - Juan Nunez-Iglesias, Stéfan van der Walt, and Harriet Dashnow
+- Hands-On Unsupervised Learning Using Python - Ankur A. Patel
+- Test-Driven Development with Python - Harry J.W. Percival
+- The Hitchhiker's Guide to Python - Kenneth Reitz & Tanya Schlusser
+- Doing Math with Python - Amit Saha
+- Malware Data Science - Joshua Saxe with Hilary Sanders
+- Black Hat Python - Justin Seitz and Tim Arnold
+- Practical Malware Analysis - Michael Sikorski and Andrew Honig
+- Black Hat Go - Tom Steele, Chris Patten, and Dan Kottmann
+- Automate the Boring Stuff with Python - Al Sweigart
+- Beyond the Basic Stuff with Python - Al Sweigart
+- Cracking Codes with Python - Al Sweigart
+- Invent Your Own Computer Games with Python - Al Sweigart
+- Python Data Science Handbook - Jake VanderPlas
+- Natural Language Processing with Python and Spacy - Yuli Vasiliev
+- Real World Python - Lee Vaughan
+- Django for Beginners - William Vincent
+- Django for Professionals - William Vincent
+- Real-World Bug Hunting - Peter Yaworski
+- The Tangled Web - Michal Zalewski

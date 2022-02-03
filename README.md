@@ -1,4 +1,4 @@
-# Brandon J. Lacy
+# Brandon J. Lacy (Z3R0)
 ![](https://img.shields.io/badge/Language-Python-brightgreen)
 ![](https://img.shields.io/badge/Web%20Framework-Django-brightgreen)
 <br>

@@ -1,4 +1,4 @@
-![](https://github.com/AG3NTZ3R0/AG3NTZ3R0/blob/main/github_banner_resize.png)
+# Brandon J. Lacy
 ![](https://img.shields.io/badge/Python-PCEP-informational?style=flat&logo=Python&color=3776AB)
 <br>
 ![](https://img.shields.io/badge/freeCodeCamp-Data%20Analysis%20with%20Python-informational?style=flat&logo=freeCodeCamp&color=0A0A23)
